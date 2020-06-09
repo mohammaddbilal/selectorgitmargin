@@ -1,0 +1,21 @@
+
+.head1 {color: blue; }
+
+.bigfont {font-size: 40px;}
+#head {border:5px solid red;}
+.grey { color:tomato;}
+h1 {display: inline;}
+img {display: block;}
+a{display: block;}
+.font{font-size: 40px; font-weight: bolder; display: block;}
+.margin{background-color: violet;}
+.mama
+{background-color: yellow;}
+.box1{width: 100px;
+height: 50px;
+background-color: violet;
+padding: 150px 160px 40px;}
+.box2{width: 100px;
+height: 50px;
+background-color: grey;
+margin: 50px;}
